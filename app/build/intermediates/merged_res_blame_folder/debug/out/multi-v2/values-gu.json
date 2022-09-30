@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ghazali\\AndroidStudioProjects\\NewsiFy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\edf0ace79985484fe71294631ff542cc\\transformed\\core-1.8.0\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1544",
+                        "endColumns": "100",
+                        "endOffsets": "1640"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\3350580492f4d3d6c846e549d31a0f14\\transformed\\browser-1.3.0\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,156,257,366",
+                        "endColumns": "100,100,108,100",
+                        "endOffsets": "151,252,361,462"
+                    },
+                    "to": {
+                        "startLines": "4,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "279,659,760,869",
+                        "endColumns": "100,100,108,100",
+                        "endOffsets": "375,755,864,965"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\a04ce4ac31253f0fdbe4c86f7f31e192\\transformed\\ui-1.1.1\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,279,372,471,558,644,747,834,920,988,1057,1132,1198",
+                        "endColumns": "91,81,92,98,86,85,102,86,85,67,68,74,65,115",
+                        "endOffsets": "192,274,367,466,553,639,742,829,915,983,1052,1127,1193,1309"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,11,12,13,14,15,16,17,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,380,473,572,970,1056,1159,1246,1332,1400,1469,1645,1711",
+                        "endColumns": "91,81,92,98,86,85,102,86,85,67,68,74,65,115",
+                        "endOffsets": "192,274,468,567,654,1051,1154,1241,1327,1395,1464,1539,1706,1822"
+                    }
+                }
+            ]
+        }
+    ]
+}

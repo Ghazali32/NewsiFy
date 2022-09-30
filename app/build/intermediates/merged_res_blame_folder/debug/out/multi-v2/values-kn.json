@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ghazali\\AndroidStudioProjects\\NewsiFy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\3350580492f4d3d6c846e549d31a0f14\\transformed\\browser-1.3.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,269,385",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "164,264,380,481"
+                    },
+                    "to": {
+                        "startLines": "4,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "286,685,785,901",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "395,780,896,997"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\edf0ace79985484fe71294631ff542cc\\transformed\\core-1.8.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1606",
+                        "endColumns": "100",
+                        "endOffsets": "1702"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\a04ce4ac31253f0fdbe4c86f7f31e192\\transformed\\ui-1.1.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,286,382,482,571,655,778,869,954,1025,1096,1175,1244",
+                        "endColumns": "96,83,95,99,88,83,122,90,84,70,70,78,68,117",
+                        "endOffsets": "197,281,377,477,566,650,773,864,949,1020,1091,1170,1239,1357"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,11,12,13,14,15,16,17,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,400,496,596,1002,1086,1209,1300,1385,1456,1527,1707,1776",
+                        "endColumns": "96,83,95,99,88,83,122,90,84,70,70,78,68,117",
+                        "endOffsets": "197,281,491,591,680,1081,1204,1295,1380,1451,1522,1601,1771,1889"
+                    }
+                }
+            ]
+        }
+    ]
+}

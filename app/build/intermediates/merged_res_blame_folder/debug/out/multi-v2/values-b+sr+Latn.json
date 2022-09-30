@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ghazali\\AndroidStudioProjects\\NewsiFy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\edf0ace79985484fe71294631ff542cc\\transformed\\core-1.8.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1566",
+                        "endColumns": "100",
+                        "endOffsets": "1662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\3350580492f4d3d6c846e549d31a0f14\\transformed\\browser-1.3.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,266,379",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "161,261,374,472"
+                    },
+                    "to": {
+                        "startLines": "4,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "289,684,784,897",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "395,779,892,990"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\a04ce4ac31253f0fdbe4c86f7f31e192\\transformed\\ui-1.1.1\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,289,386,487,573,650,751,843,928,1000,1071,1144,1214",
+                        "endColumns": "96,86,96,100,85,76,100,91,84,71,70,72,69,117",
+                        "endOffsets": "197,284,381,482,568,645,746,838,923,995,1066,1139,1209,1327"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,11,12,13,14,15,16,17,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,400,497,598,995,1072,1173,1265,1350,1422,1493,1667,1737",
+                        "endColumns": "96,86,96,100,85,76,100,91,84,71,70,72,69,117",
+                        "endOffsets": "197,284,492,593,679,1067,1168,1260,1345,1417,1488,1561,1732,1850"
+                    }
+                }
+            ]
+        }
+    ]
+}

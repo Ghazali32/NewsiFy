@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ghazali\\AndroidStudioProjects\\NewsiFy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\a04ce4ac31253f0fdbe4c86f7f31e192\\transformed\\ui-1.1.1\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,284,393,494,583,662,761,853,941,1014,1084,1161,1233",
+                        "endColumns": "95,82,108,100,88,78,98,91,87,72,69,76,71,121",
+                        "endOffsets": "196,279,388,489,578,657,756,848,936,1009,1079,1156,1228,1350"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,11,12,13,14,15,16,17,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,391,500,601,1010,1089,1188,1280,1368,1441,1511,1689,1761",
+                        "endColumns": "95,82,108,100,88,78,98,91,87,72,69,76,71,121",
+                        "endOffsets": "196,279,495,596,685,1084,1183,1275,1363,1436,1506,1583,1756,1878"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\edf0ace79985484fe71294631ff542cc\\transformed\\core-1.8.0\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1588",
+                        "endColumns": "100",
+                        "endOffsets": "1684"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ghazali\\.gradle\\caches\\transforms-3\\3350580492f4d3d6c846e549d31a0f14\\transformed\\browser-1.3.0\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,264,376",
+                        "endColumns": "106,101,111,105",
+                        "endOffsets": "157,259,371,477"
+                    },
+                    "to": {
+                        "startLines": "4,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "284,690,792,904",
+                        "endColumns": "106,101,111,105",
+                        "endOffsets": "386,787,899,1005"
+                    }
+                }
+            ]
+        }
+    ]
+}
